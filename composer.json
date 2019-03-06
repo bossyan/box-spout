@@ -18,6 +18,7 @@
         }
     ],
     "require": {
-        "box/spout": "dev-master"
-    }
+        "box/spout": "hyperlink"
+    },
+    "minimum-stability": "dev"
 }
